@@ -1,4 +1,4 @@
-<img width="957" height="1016" alt="Screenshot 2026-10-28 095327" src="https://github.com/user-attachments/assets/e725fa36-4cc3-4e79-9601-da10da05cba8" />
+
 # Sistem-Penyewaan-Adventure-Camp
 # Proyek: Sistem Penyewaan Peralatan Camping - Adventure Camp
 
